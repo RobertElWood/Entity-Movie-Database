@@ -16,6 +16,5 @@ namespace Entity_Movie_Database
             sc.StartProgram();
         }
 
-       
     }
 }
